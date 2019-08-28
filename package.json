@@ -1,0 +1,14 @@
+{
+  "name": "@01ht/ht-app-tools",
+  "version": "1.0.0",
+  "repository": "01ht/ht-app-tools",
+  "author": "01ht Ltd",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^1.19.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
